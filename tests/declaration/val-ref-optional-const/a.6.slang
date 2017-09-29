@@ -13,4 +13,4 @@ if b is Integer then
 	return b = 2
 else
 	return 0
-
+end
