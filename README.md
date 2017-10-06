@@ -22,3 +22,9 @@
     * constructing with operator `as`
   * containers
   * functions
+  	* pure/safe
+	* operator-functions
+* Operators
+  * ?, (math)
+* Contracts
+* Generics
