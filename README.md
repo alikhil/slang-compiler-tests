@@ -22,9 +22,15 @@
     * constructing with operator `as`
   * containers
   * functions
-  	* pure/safe
-	* operator-functions
+    * pure/safe
+  * operator-functions
 * Operators
   * ?, (math)
 * Contracts
 * Generics
+
+## Don't forget to cover:
+
+* `mod` and `rem` ?
+* external functions declaration
+* testing standard library methods(math, Integer, etc)
