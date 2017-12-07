@@ -13,6 +13,8 @@
   * There is only single document yet
 * How to write tests according to specification?
   * Custom numeration or textual
+* `raise` operator works with any type of operands?(string, exception, whatever) Or it passes string as message to Exception constructor?
+* What happens on `check` violation? Which exception is thrown?
 
 ## Structure
 
@@ -25,7 +27,7 @@
     * pure/safe
   * operator-functions
 * Operators
-  * ?, (math)
+  * ?, (math), in, ...
 * Contracts
 * Generics
 
@@ -34,3 +36,4 @@
 * `mod` and `rem` ?
 * external functions declaration
 * testing standard library methods(math, Integer, etc)
+* passing named tuples to functions
