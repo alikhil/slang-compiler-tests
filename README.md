@@ -14,7 +14,15 @@
 * How to write tests according to specification?
   * Custom numeration or textual
 * `raise` operator works with any type of operands?(string, exception, whatever) Or it passes string as message to Exception constructor?
+  * no information about it
 * What happens on `check` violation? Which exception is thrown?
+  * Throws some standard library exception 
+* Tuples named tuples as resulting type
+  * (yes, it's not forbidden)
+* passing tuples as parameters
+  * Not now (maybe in future versions of language)
+* Application.Exit vs return ?
+  * Don't care
 
 ## Structure
 
