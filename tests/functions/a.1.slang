@@ -4,7 +4,7 @@ title is "tuple as arguments"
 section is "functions" 
 topic is "pass named tuple as arguments"
 
-
+// keep it until next version of language
 
 args = (message: "hello", count: 3)
 
