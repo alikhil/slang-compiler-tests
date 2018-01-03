@@ -7,4 +7,4 @@ topic is "Describe functions with generic constant parameters"
 
 addTo[N](b: Integer) => N + b
 
-return if addTo[5](6) = 11 then 1 else 0 end
+return if addTo[5](6) = 11 then 1 else 0

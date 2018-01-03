@@ -6,7 +6,7 @@ topic is "Implicit type instantiation in generic functions"
 
 
 min[T](a: T, b: T) is
-	return a < b then a else b end
+	return a < b then a else b
 end
 
 min(42, 12)

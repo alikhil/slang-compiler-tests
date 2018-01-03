@@ -9,4 +9,4 @@ addTo[N](b: Integer): Integer is
 	return N + b
 end
 
-return if addTo[5](6) = 11 then 1 else 0 end
+return if addTo[5](6) = 11 then 1 else 0
