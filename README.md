@@ -5,7 +5,7 @@
 * A tests: `a.chapter.subchapter.slang`
 * B tests: `b.chapter.subchapter.slang`
 
-## Open questions
+## Questions
 
 * Interface to compiler?
   * At least with a month
@@ -23,6 +23,7 @@
   * Not now (maybe in future versions of language)
 * Application.Exit vs return ?
   * Don't care
+* what is `super` operator?
 
 ## Structure
 
@@ -31,17 +32,24 @@
     * constructors (different variations)
     * constructing with operator `as`
   * containers
+    * as modules
+    * as types
+    * concurent
+    * abstract
+    * contracts
+    * as enums
+    * generics
   * functions
     * pure/safe
   * operator-functions
 * Operators
-  * ?, (math), in, ...
+  * ?, (math), in, ..., use
 * Contracts
 * Generics
-
 ## Don't forget to cover:
 
 * `mod` and `rem` ?
+* `external` 
 * external functions declaration
 * testing standard library methods(math, Integer, etc)
 * passing named tuples to functions
