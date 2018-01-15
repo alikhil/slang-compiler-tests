@@ -9,9 +9,9 @@ cnt = 0
 
 // Act
 while i in 1 .. 10 loop
+	cnt := cnt + 1
+	
 	invariant
 		true
-
-	cnt := cnt + 1
 end
 

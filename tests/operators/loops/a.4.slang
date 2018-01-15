@@ -9,9 +9,8 @@ cnt = 0
 
 // Act
 while i in 1 .. 10 loop
+	cnt := cnt + 1
 	variant
 		10 - i
-
-	cnt := cnt + 1
 end
 
