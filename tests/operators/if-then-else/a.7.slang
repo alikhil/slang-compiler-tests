@@ -10,7 +10,7 @@ num = 22
 // Act
 if num mod 3 = 0 then
 	return 1
-else if num mod 2 = 0 then
+elsif num mod 2 = 0 then
 	return 0
 else
 	return 1
