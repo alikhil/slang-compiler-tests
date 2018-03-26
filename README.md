@@ -29,25 +29,31 @@
 
 * Declaration
   * variables
-    * constructors (different variations)
-    * constructing with operator `as`
+    * constructors (different variations) +
+    * constructing with operator `as` ?
   * containers
-    * as modules
-    * as types
-    * concurent
-    * abstract
-    * contracts
-    * as enums
-    * generics
-  * functions
-    * pure/safe
+    * as modules -
+    * as types -
+    * concurent -
+    * abstract -
+    * contracts -
+    * as enums ?
+    * generics -
+  * functions +/-
+    * pure/safe +
   * operator-functions
 * Operators
-  * ?, (math), in, ..., use
-* Contracts
-* Generics
+  * ?, (math), in, ..., use - 
+* Contracts -
+* Generics -
+
 ## Don't forget to cover:
 
+* Concurrency
+* Inheritance | Multiinheritance
+* alias
+* Generics
+* using `units` as 
 * `mod` and `rem` ?
 * `external` 
 * external functions declaration
